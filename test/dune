@@ -7,3 +7,8 @@
  (name test_ellipse)
  (modules test_ellipse)
  (libraries joy graphics))
+
+(test
+ (name test_triangle)
+ (modules test_triangle)
+ (libraries joy graphics))
